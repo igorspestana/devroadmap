@@ -115,6 +115,43 @@
     - Algoritmos avançados: Programação dinâmica, algoritmos de grafos
     - Análise de Complexidade (Big-O, Big-Θ, Big-Ω)
 
+21. **Automação com Ferramentas de Criação de Fluxos**
+
+- Ferramentas de automação: Zapier, Integromat (Make), Microsoft Power Automate
+- Integração de APIs em fluxos automatizados
+- Criação de fluxos personalizados para automatizar tarefas repetitivas
+- Processos de automação baseados em eventos e condicionais
+
+22. **Construção de Aplicações com Inteligência Artificial**
+
+- Ferramentas de construção de IA: Microsoft Azure AI, Google AI, IBM Watson, OpenAI API
+- Integração de modelos de IA em aplicações: Chatbots, recomendadores, análise de sentimentos
+- Processamento de linguagem natural (NLP)
+- Visão computacional (Computer Vision)
+- Ferramentas de criação de aplicativos IA sem código (Low-code/no-code AI platforms)
+
+23. **Conceito de RAG (Retrieval-Augmented Generation)**
+
+- Definição de RAG: Combinação de modelos generativos com sistemas de recuperação de informação
+- Como RAG melhora a qualidade de respostas e a eficácia de modelos de IA em tarefas de NLP
+- Implementação de sistemas de RAG usando bibliotecas como Haystack e GPT-3 ou GPT-4
+- Casos de uso de RAG em assistentes virtuais e sistemas de perguntas e respostas
+
+24. **Conceito de Agentes de IA (AI Agents)**
+
+- Definição de agentes de IA: Programas autônomos que tomam decisões e interagem com o ambiente
+- Tipos de agentes: Reativos, deliberativos e híbridos
+- Implementação de agentes com aprendizagem por reforço (Reinforcement Learning)
+- Exemplos práticos: Agentes de IA em jogos, simulações e serviços automatizados
+- Agentes de IA em assistentes virtuais e automação de processos
+
+25. **Orquestração de Agentes**
+
+- Definição de orquestração de agentes: Coordenação de múltiplos agentes para atingir um objetivo comum
+- Ferramentas de orquestração de agentes: OpenAI Gym, Ray RLLib, AutoML
+- Estratégias para sincronizar e coordenar agentes em tarefas complexas
+- Aplicações práticas de orquestração de agentes em sistemas multiagente (MAS)
+- Casos de uso: Automação de processos empresariais, jogos multijogador e simulações de IA colaborativa
 ---
 
 ### Como Usar o Roadmap:
